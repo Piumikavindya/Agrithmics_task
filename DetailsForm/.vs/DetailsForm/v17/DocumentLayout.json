@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Agrithmics Training\\DetailsForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|e:\\agrithmics training\\detailsform\\controllers\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|solutionrelative:controllers\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|e:\\agrithmics training\\detailsform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|e:\\agrithmics training\\detailsform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|e:\\agrithmics training\\detailsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|e:\\agrithmics training\\detailsform\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|solutionrelative:models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|e:\\agrithmics training\\detailsform\\detailsform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|solutionrelative:detailsform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|e:\\agrithmics training\\detailsform\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B6D146-40FD-4012-874B-6415A69326C3}|DetailsForm.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Agrithmics Training\\DetailsForm\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Agrithmics Training\\DetailsForm\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T18:37:19.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "E:\\Agrithmics Training\\DetailsForm\\Controllers\\Detail.cs",
+              "RelativeDocumentMoniker": "Controllers\\Detail.cs",
+              "ToolTip": "E:\\Agrithmics Training\\DetailsForm\\Controllers\\Detail.cs",
+              "RelativeToolTip": "Controllers\\Detail.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:44:40.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Agrithmics Training\\DetailsForm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Agrithmics Training\\DetailsForm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T17:44:13.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Agrithmics Training\\DetailsForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Agrithmics Training\\DetailsForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:55:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailsForm",
+              "DocumentMoniker": "E:\\Agrithmics Training\\DetailsForm\\DetailsForm.csproj",
+              "RelativeDocumentMoniker": "DetailsForm.csproj",
+              "ToolTip": "E:\\Agrithmics Training\\DetailsForm\\DetailsForm.csproj",
+              "RelativeToolTip": "DetailsForm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T06:06:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cs",
+              "DocumentMoniker": "E:\\Agrithmics Training\\DetailsForm\\Models\\Details.cs",
+              "RelativeDocumentMoniker": "Models\\Details.cs",
+              "ToolTip": "E:\\Agrithmics Training\\DetailsForm\\Models\\Details.cs",
+              "RelativeToolTip": "Models\\Details.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:44:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Agrithmics Training\\DetailsForm\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Agrithmics Training\\DetailsForm\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:19:25.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
